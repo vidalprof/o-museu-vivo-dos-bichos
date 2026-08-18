@@ -21,7 +21,7 @@
  },
  {
   "id": "op_1ir0rc5",
-  "texto": "O cachorro é um mamífero. tem pelos e mama quando bebê."
+  "texto": "O cachorro é um mamífero. Tem pelos e mama quando bebê."
  },
  {
   "id": "op_yki1zk",
@@ -33,7 +33,7 @@
  },
  {
   "id": "op_1db6xat",
-  "texto": "O gato é um mamífero. tem pelos e faz miau."
+  "texto": "O gato é um mamífero. Tem pelos e faz miau."
  },
  {
   "id": "op_1n8jy5t",
@@ -45,7 +45,7 @@
  },
  {
   "id": "op_pj140l",
-  "texto": "O morcego é um mamífero. mamífero que voa, tem pelos."
+  "texto": "O morcego é um mamífero. Mamífero que voa, tem pelos."
  },
  {
   "id": "op_1vkwqtf",
@@ -57,7 +57,7 @@
  },
  {
   "id": "op_4qrs1s",
-  "texto": "A baleia é um mamífero. vive no mar mas respira ar."
+  "texto": "A baleia é um mamífero. Vive no mar mas respira ar."
  },
  {
   "id": "op_ykolnu",
@@ -69,7 +69,7 @@
  },
  {
   "id": "op_6p2yil",
-  "texto": "A onça é um mamífero. tem pelos com pintas."
+  "texto": "A onça é um mamífero. Tem pelos com pintas."
  },
  {
   "id": "op_3nwjgp",
@@ -81,7 +81,7 @@
  },
  {
   "id": "op_12wym4u",
-  "texto": "O macaco é um mamífero. tem pelos e sobe nas árvores."
+  "texto": "O macaco é um mamífero. Tem pelos e sobe nas árvores."
  },
  {
   "id": "op_8l4kfj",
@@ -93,7 +93,7 @@
  },
  {
   "id": "op_1dax66s",
-  "texto": "O tucano é uma ave. tem penas e um bico grande."
+  "texto": "O tucano é uma ave. Tem penas e um bico grande."
  },
  {
   "id": "op_46v370",
@@ -105,7 +105,7 @@
  },
  {
   "id": "op_ll6ffy",
-  "texto": "A arara é uma ave. tem penas coloridas."
+  "texto": "A arara é uma ave. Tem penas coloridas."
  },
  {
   "id": "op_1wi8ell",
@@ -117,7 +117,7 @@
  },
  {
   "id": "op_1q370wu",
-  "texto": "A coruja é uma ave. tem penas e voa de noite."
+  "texto": "A coruja é uma ave. Tem penas e voa de noite."
  },
  {
   "id": "op_1cbmr5q",
@@ -129,7 +129,7 @@
  },
  {
   "id": "op_wuxh05",
-  "texto": "O pinguim é uma ave. tem penas mas não voa."
+  "texto": "O pinguim é uma ave. Tem penas mas não voa."
  },
  {
   "id": "op_rhz37k",
@@ -141,7 +141,7 @@
  },
  {
   "id": "op_248uz0",
-  "texto": "O beija-flor é uma ave. tem penas e bate as asas rápido."
+  "texto": "O beija-flor é uma ave. Tem penas e bate as asas rápido."
  },
  {
   "id": "op_1rz18ft",
@@ -153,7 +153,7 @@
  },
  {
   "id": "op_dw3ky5",
-  "texto": "A galinha é uma ave. tem penas e bota ovos."
+  "texto": "A galinha é uma ave. Tem penas e bota ovos."
  },
  {
   "id": "op_1q04r3",
@@ -165,7 +165,7 @@
  },
  {
   "id": "op_zvapyz",
-  "texto": "O jacaré é um réptil. tem escamas duras."
+  "texto": "O jacaré é um réptil. Tem escamas duras."
  },
  {
   "id": "op_1vn0yb",
@@ -177,7 +177,7 @@
  },
  {
   "id": "op_1ztlog",
-  "texto": "A jiboia é um réptil. tem escamas duras e rasteja."
+  "texto": "A jiboia é um réptil. Tem escamas duras e rasteja."
  },
  {
   "id": "op_17fyoc0",
@@ -189,7 +189,7 @@
  },
  {
   "id": "op_1t7wkql",
-  "texto": "A tartaruga é um réptil. tem casco e escamas."
+  "texto": "A tartaruga é um réptil. Tem casco e escamas."
  },
  {
   "id": "op_sln6bz",
@@ -201,7 +201,7 @@
  },
  {
   "id": "op_eit49i",
-  "texto": "O lagarto é um réptil. tem escamas e quatro patas."
+  "texto": "O lagarto é um réptil. Tem escamas e quatro patas."
  },
  {
   "id": "op_2l6nyy",
@@ -213,7 +213,7 @@
  },
  {
   "id": "op_1kwqdfk",
-  "texto": "O camaleão é um réptil. tem escamas e muda de cor."
+  "texto": "O camaleão é um réptil. Tem escamas e muda de cor."
  },
  {
   "id": "op_ykramw",
@@ -225,7 +225,7 @@
  },
  {
   "id": "op_me5gbu",
-  "texto": "O sapo é um anfíbio. pele úmida, vive na água e na terra."
+  "texto": "O sapo é um anfíbio. Pele úmida, vive na água e na terra."
  },
  {
   "id": "op_k4l5ws",
@@ -237,7 +237,7 @@
  },
  {
   "id": "op_14e6ti",
-  "texto": "A perereca é um anfíbio. pele lisa e pula alto."
+  "texto": "A perereca é um anfíbio. Pele lisa e pula alto."
  },
  {
   "id": "op_3hom2",
@@ -249,7 +249,7 @@
  },
  {
   "id": "op_7fu0ue",
-  "texto": "A rã é um anfíbio. pele úmida e nada bem."
+  "texto": "A rã é um anfíbio. Pele úmida e nada bem."
  },
  {
   "id": "op_1j6o0p",
@@ -261,7 +261,7 @@
  },
  {
   "id": "op_1mxp22a",
-  "texto": "A salamandra é um anfíbio. pele lisa e rabo comprido."
+  "texto": "A salamandra é um anfíbio. Pele lisa e rabo comprido."
  },
  {
   "id": "op_95208j",
@@ -273,7 +273,7 @@
  },
  {
   "id": "op_11rhx2x",
-  "texto": "O dourado é uma peixe. tem escamas e nadadeiras."
+  "texto": "O dourado é uma peixe. Tem escamas e nadadeiras."
  },
  {
   "id": "op_1y95bn9",
@@ -285,7 +285,7 @@
  },
  {
   "id": "op_m1t7um",
-  "texto": "O tubarão é uma peixe. peixe grande com nadadeiras."
+  "texto": "O tubarão é uma peixe. Peixe grande com nadadeiras."
  },
  {
   "id": "op_144rp7a",
@@ -297,7 +297,7 @@
  },
  {
   "id": "op_r8dze1",
-  "texto": "O cavalo-marinho é uma peixe. peixe pequeno que fica em pé."
+  "texto": "O cavalo-marinho é uma peixe. Peixe pequeno que fica em pé."
  },
  {
   "id": "op_9nx2q1",
@@ -309,7 +309,7 @@
  },
  {
   "id": "op_1bkjc21",
-  "texto": "O peixe-palhaço é uma peixe. peixe laranja e branco."
+  "texto": "O peixe-palhaço é uma peixe. Peixe laranja e branco."
  },
  {
   "id": "op_1v9qktx",
@@ -321,7 +321,7 @@
  },
  {
   "id": "op_zduj4t",
-  "texto": "A arraia é uma peixe. peixe chato e largo."
+  "texto": "A arraia é uma peixe. Peixe chato e largo."
  },
  {
   "id": "op_cvl88v",
@@ -333,7 +333,7 @@
  },
  {
   "id": "op_1fs1831",
-  "texto": "A borboleta é um invertebrado. asas coloridas, seis patas."
+  "texto": "A borboleta é um invertebrado. Asas coloridas, seis patas."
  },
  {
   "id": "op_16nm6dp",
@@ -345,7 +345,7 @@
  },
  {
   "id": "op_14vgnc9",
-  "texto": "A joaninha é um invertebrado. besouro vermelho com pintas."
+  "texto": "A joaninha é um invertebrado. Besouro vermelho com pintas."
  },
  {
   "id": "op_1uy64ki",
@@ -357,7 +357,7 @@
  },
  {
   "id": "op_zoe165",
-  "texto": "A abelha é um invertebrado. faz mel, tem seis patas."
+  "texto": "A abelha é um invertebrado. Faz mel, tem seis patas."
  },
  {
   "id": "op_1v9dsc0",
@@ -369,7 +369,7 @@
  },
  {
   "id": "op_2w56td",
-  "texto": "A aranha é um invertebrado. tece teia, oito patas."
+  "texto": "A aranha é um invertebrado. Tece teia, oito patas."
  },
  {
   "id": "op_1doktne",
@@ -381,7 +381,7 @@
  },
  {
   "id": "op_1m59uy8",
-  "texto": "O caracol é um invertebrado. corpo mole com concha."
+  "texto": "O caracol é um invertebrado. Corpo mole com concha."
  },
  {
   "id": "op_1ja1ih0",
@@ -393,7 +393,7 @@
  },
  {
   "id": "op_1oc6lhw",
-  "texto": "A minhoca é um invertebrado. corpo mole, vive na terra."
+  "texto": "A minhoca é um invertebrado. Corpo mole, vive na terra."
  },
  {
   "id": "op_mivi04",
@@ -405,7 +405,7 @@
  },
  {
   "id": "op_749xhv",
-  "texto": "O caranguejo é um invertebrado. tem casca dura e pinças."
+  "texto": "O caranguejo é um invertebrado. Tem casca dura e pinças."
  },
  {
   "id": "op_4hebat",
@@ -417,7 +417,7 @@
  },
  {
   "id": "op_15pkumw",
-  "texto": "O polvo é um invertebrado. corpo mole com oito braços."
+  "texto": "O polvo é um invertebrado. Corpo mole com oito braços."
  },
  {
   "id": "mv_f02_intro",
@@ -1418,206 +1418,6 @@
  {
   "id": "op_fa3mo2",
   "texto": "Era esta! Eu coloco e você segue."
- },
- {
-  "id": "op_1djt0su",
-  "texto": "O baleia é um mamífero. vive no mar mas respira ar."
- },
- {
-  "id": "op_1ed8kaz",
-  "texto": "O onça é um mamífero. tem pelos com pintas."
- },
- {
-  "id": "op_15uu492",
-  "texto": "A tucano é uma ave. tem penas e um bico grande."
- },
- {
-  "id": "op_1o7vx6v",
-  "texto": "A pinguim é uma ave. tem penas mas não voa."
- },
- {
-  "id": "op_1158ha6",
-  "texto": "A beija-flor é uma ave. tem penas e bate as asas rápido."
- },
- {
-  "id": "op_188z8we",
-  "texto": "O jiboia é um réptil. tem escamas duras e rasteja."
- },
- {
-  "id": "op_w7zx1n",
-  "texto": "O tartaruga é um réptil. tem casco e escamas."
- },
- {
-  "id": "op_8kh8r8",
-  "texto": "O perereca é um anfíbio. pele lisa e pula alto."
- },
- {
-  "id": "op_b2fahg",
-  "texto": "O rã é um anfíbio. pele úmida e nada bem."
- },
- {
-  "id": "op_1izx3gg",
-  "texto": "O salamandra é um anfíbio. pele lisa e rabo comprido."
- },
- {
-  "id": "op_d149bf",
-  "texto": "O arraia é uma peixe. peixe chato e largo."
- },
- {
-  "id": "op_1eg0t17",
-  "texto": "O borboleta é um invertebrado. asas coloridas, seis patas."
- },
- {
-  "id": "op_13jg8af",
-  "texto": "O joaninha é um invertebrado. besouro vermelho com pintas."
- },
- {
-  "id": "op_mn5whn",
-  "texto": "O abelha é um invertebrado. faz mel, tem seis patas."
- },
- {
-  "id": "op_195au1b",
-  "texto": "O aranha é um invertebrado. tece teia, oito patas."
- },
- {
-  "id": "op_xg41k2",
-  "texto": "O minhoca é um invertebrado. corpo mole, vive na terra."
- },
- {
-  "id": "op_o7qrc5",
-  "texto": "Tem escamas e rasteja."
- },
- {
-  "id": "op_19ti4o",
-  "texto": "O cobra é um réptil. tem escamas e rasteja."
- },
- {
-  "id": "op_2if62r",
-  "texto": "Ligue cada um à sua característica."
- },
- {
-  "id": "op_cce2gv",
-  "texto": "Escreva o nome do bicho, letra por letra."
- },
- {
-  "id": "mv_f16_intro",
-  "texto": "Ligue cada bicho/grupo à sua característica."
- },
- {
-  "id": "mv_f16_dica",
-  "texto": "Pense no que aquele grupo tem no corpo."
- },
- {
-  "id": "op_1ijww9",
-  "texto": "OS ANIMAIS"
- },
- {
-  "id": "op_z7zf3i",
-  "texto": "Todo animal é de um tipo: VERTEBRADO tem osso por dentro (a coluna)."
- },
- {
-  "id": "op_c2etvd",
-  "texto": "INVERTEBRADO não tem osso: é molinho ou tem casca por fora."
- },
- {
-  "id": "op_1g6izr5",
-  "texto": "No museu você vai conhecer os grupos de cada um!"
- },
- {
-  "id": "op_4oizou",
-  "texto": "OS MAMÍFEROS"
- },
- {
-  "id": "op_vfili7",
-  "texto": "Onde vivem: em toda parte — terra, água e até no ar."
- },
- {
-  "id": "op_1csgvc3",
-  "texto": "O que comem: de tudo (plantas, carne, leite quando bebês)."
- },
- {
-  "id": "op_13z46cx",
-  "texto": "Marca do corpo: têm PELOS e mamam quando bebês."
- },
- {
-  "id": "op_h0a78o",
-  "texto": "AS AVES"
- },
- {
-  "id": "op_teb89p",
-  "texto": "Onde vivem: nas árvores, no chão, perto da água."
- },
- {
-  "id": "op_1ihpfla",
-  "texto": "O que comem: frutas, sementes, insetos."
- },
- {
-  "id": "op_7jyhch",
-  "texto": "Marca do corpo: têm PENAS, bico e botam ovos."
- },
- {
-  "id": "op_i6b6p3",
-  "texto": "OS RÉPTEIS"
- },
- {
-  "id": "op_1kozacd",
-  "texto": "Onde vivem: em lugares quentes, perto da água."
- },
- {
-  "id": "op_k8rjg9",
-  "texto": "O que comem: peixes e outros animais."
- },
- {
-  "id": "op_5odd9r",
-  "texto": "Marca do corpo: têm ESCAMAS SECAS e gostam do sol."
- },
- {
-  "id": "op_1ekr23a",
-  "texto": "OS ANFÍBIOS"
- },
- {
-  "id": "op_cu7o6x",
-  "texto": "Onde vivem: na ÁGUA e na TERRA."
- },
- {
-  "id": "op_g5eul5",
-  "texto": "O que comem: insetos e bichinhos."
- },
- {
-  "id": "op_1m28gjf",
-  "texto": "Marca do corpo: têm PELE ÚMIDA e lisa."
- },
- {
-  "id": "op_i6rfbp",
-  "texto": "OS PEIXES"
- },
- {
-  "id": "op_r5g89g",
-  "texto": "Onde vivem: dentro da água (rios e mares)."
- },
- {
-  "id": "op_xyww7f",
-  "texto": "O que comem: plantas e animais menores."
- },
- {
-  "id": "op_h24yo8",
-  "texto": "Marca do corpo: ESCAMAS, nadadeiras e respiram por guelras."
- },
- {
-  "id": "op_1b8lenz",
-  "texto": "OS INVERTEBRADOS"
- },
- {
-  "id": "op_1836doj",
-  "texto": "Onde vivem: em toda parte — jardins, terra, água."
- },
- {
-  "id": "op_lfvmdv",
-  "texto": "O que comem: plantas, néctar, restos, outros bichinhos."
- },
- {
-  "id": "op_xjcm70",
-  "texto": "Marca do corpo: NÃO têm osso; muitos têm patas, antenas ou concha."
  },
  {
   "id": "op_15w9ucp",

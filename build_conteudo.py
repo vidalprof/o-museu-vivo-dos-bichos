@@ -242,9 +242,10 @@ _ordem=["mamiferos","aves","repteis","anfibios","peixes","invertebrados"]
 for _g in _ordem:
     _vert,_lst=G[_g]
     for _nome,_img,_carac in _lst:
+        _caracM=_carac[0].upper()+_carac[1:]        # 2a frase da voz começa com MAIÚSCULA
         VIT_PANELS.append({"img":_img,"nome":_nome.upper(),"grupo":GNOME[_g],
-            "info":_carac[0].upper()+_carac[1:]+".",
-            "voz":"%s %s é %s. %s."%(artigo_de(_nome), _nome, ("um invertebrado" if _g=="invertebrados" else "um "+GNOME[_g].lower() if GNOME[_g][-1]!="E" else "uma "+GNOME[_g].lower()), _carac)})
+            "info":_caracM+".",
+            "voz":"%s %s é %s. %s."%(artigo_de(_nome), _nome, ("um invertebrado" if _g=="invertebrados" else "um "+GNOME[_g].lower() if GNOME[_g][-1]!="E" else "uma "+GNOME[_g].lower()), _caracM)})
 _VIT_ANTIGO=[
  {"img":"","nome":"OS ANIMAIS","grupo":"VERTEBRADOS e INVERTEBRADOS",
   "fatos":["Todo animal é de um tipo: VERTEBRADO tem osso por dentro (a coluna).",
@@ -369,6 +370,11 @@ for _f in fases:
 if any(_f["mec"]=="digitar" for _f in fases):
     falasExtra.append("A letra que vem agora está acesa.")
     falasExtra.append("Era esta! Eu coloco e você segue.")
+# classificar: a dica de "toque na ficha primeiro" (quando toca a gaveta sem ficha)
+if any(_f["mec"]=="classificar" for _f in fases):
+    falasExtra.append("Primeiro toque na ficha lá de cima. Depois toque na gaveta.")
+# motor: a tela "Quem vai jogar?" é narrada em toda atividade
+falasExtra.append("Quem vai jogar hoje?")
 # tira repetidos preservando ordem
 _vis=set(); falasExtra=[x for x in falasExtra if not (x in _vis or _vis.add(x))]
 

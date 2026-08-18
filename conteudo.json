@@ -65,7 +65,9 @@
   "A palavra é POLVO",
   "A palavra é MINHOCA",
   "A letra que vem agora está acesa.",
-  "Era esta! Eu coloco e você segue."
+  "Era esta! Eu coloco e você segue.",
+  "Primeiro toque na ficha lá de cima. Depois toque na gaveta.",
+  "Quem vai jogar hoje?"
  ],
  "fases": [
   {
@@ -81,238 +83,238 @@
      "nome": "CACHORRO",
      "grupo": "MAMÍFERO",
      "info": "Tem pelos e mama quando bebê.",
-     "voz": "O cachorro é um mamífero. tem pelos e mama quando bebê."
+     "voz": "O cachorro é um mamífero. Tem pelos e mama quando bebê."
     },
     {
      "img": "mv_gato",
      "nome": "GATO",
      "grupo": "MAMÍFERO",
      "info": "Tem pelos e faz miau.",
-     "voz": "O gato é um mamífero. tem pelos e faz miau."
+     "voz": "O gato é um mamífero. Tem pelos e faz miau."
     },
     {
      "img": "mv_morcego",
      "nome": "MORCEGO",
      "grupo": "MAMÍFERO",
      "info": "Mamífero que voa, tem pelos.",
-     "voz": "O morcego é um mamífero. mamífero que voa, tem pelos."
+     "voz": "O morcego é um mamífero. Mamífero que voa, tem pelos."
     },
     {
      "img": "mv_baleia",
      "nome": "BALEIA",
      "grupo": "MAMÍFERO",
      "info": "Vive no mar mas respira ar.",
-     "voz": "A baleia é um mamífero. vive no mar mas respira ar."
+     "voz": "A baleia é um mamífero. Vive no mar mas respira ar."
     },
     {
      "img": "mv_onca",
      "nome": "ONÇA",
      "grupo": "MAMÍFERO",
      "info": "Tem pelos com pintas.",
-     "voz": "A onça é um mamífero. tem pelos com pintas."
+     "voz": "A onça é um mamífero. Tem pelos com pintas."
     },
     {
      "img": "mv_macaco",
      "nome": "MACACO",
      "grupo": "MAMÍFERO",
      "info": "Tem pelos e sobe nas árvores.",
-     "voz": "O macaco é um mamífero. tem pelos e sobe nas árvores."
+     "voz": "O macaco é um mamífero. Tem pelos e sobe nas árvores."
     },
     {
      "img": "mv_tucano",
      "nome": "TUCANO",
      "grupo": "AVE",
      "info": "Tem penas e um bico grande.",
-     "voz": "O tucano é uma ave. tem penas e um bico grande."
+     "voz": "O tucano é uma ave. Tem penas e um bico grande."
     },
     {
      "img": "mv_arara",
      "nome": "ARARA",
      "grupo": "AVE",
      "info": "Tem penas coloridas.",
-     "voz": "A arara é uma ave. tem penas coloridas."
+     "voz": "A arara é uma ave. Tem penas coloridas."
     },
     {
      "img": "mv_coruja",
      "nome": "CORUJA",
      "grupo": "AVE",
      "info": "Tem penas e voa de noite.",
-     "voz": "A coruja é uma ave. tem penas e voa de noite."
+     "voz": "A coruja é uma ave. Tem penas e voa de noite."
     },
     {
      "img": "mv_pinguim",
      "nome": "PINGUIM",
      "grupo": "AVE",
      "info": "Tem penas mas não voa.",
-     "voz": "O pinguim é uma ave. tem penas mas não voa."
+     "voz": "O pinguim é uma ave. Tem penas mas não voa."
     },
     {
      "img": "mv_beija_flor",
      "nome": "BEIJA-FLOR",
      "grupo": "AVE",
      "info": "Tem penas e bate as asas rápido.",
-     "voz": "O beija-flor é uma ave. tem penas e bate as asas rápido."
+     "voz": "O beija-flor é uma ave. Tem penas e bate as asas rápido."
     },
     {
      "img": "mv_galinha",
      "nome": "GALINHA",
      "grupo": "AVE",
      "info": "Tem penas e bota ovos.",
-     "voz": "A galinha é uma ave. tem penas e bota ovos."
+     "voz": "A galinha é uma ave. Tem penas e bota ovos."
     },
     {
      "img": "mv_jacare",
      "nome": "JACARÉ",
      "grupo": "RÉPTIL",
      "info": "Tem escamas duras.",
-     "voz": "O jacaré é um réptil. tem escamas duras."
+     "voz": "O jacaré é um réptil. Tem escamas duras."
     },
     {
      "img": "mv_jiboia",
      "nome": "JIBOIA",
      "grupo": "RÉPTIL",
      "info": "Tem escamas duras e rasteja.",
-     "voz": "A jiboia é um réptil. tem escamas duras e rasteja."
+     "voz": "A jiboia é um réptil. Tem escamas duras e rasteja."
     },
     {
      "img": "mv_tartaruga",
      "nome": "TARTARUGA",
      "grupo": "RÉPTIL",
      "info": "Tem casco e escamas.",
-     "voz": "A tartaruga é um réptil. tem casco e escamas."
+     "voz": "A tartaruga é um réptil. Tem casco e escamas."
     },
     {
      "img": "mv_lagarto",
      "nome": "LAGARTO",
      "grupo": "RÉPTIL",
      "info": "Tem escamas e quatro patas.",
-     "voz": "O lagarto é um réptil. tem escamas e quatro patas."
+     "voz": "O lagarto é um réptil. Tem escamas e quatro patas."
     },
     {
      "img": "mv_camaleao",
      "nome": "CAMALEÃO",
      "grupo": "RÉPTIL",
      "info": "Tem escamas e muda de cor.",
-     "voz": "O camaleão é um réptil. tem escamas e muda de cor."
+     "voz": "O camaleão é um réptil. Tem escamas e muda de cor."
     },
     {
      "img": "mv_sapo",
      "nome": "SAPO",
      "grupo": "ANFÍBIO",
      "info": "Pele úmida, vive na água e na terra.",
-     "voz": "O sapo é um anfíbio. pele úmida, vive na água e na terra."
+     "voz": "O sapo é um anfíbio. Pele úmida, vive na água e na terra."
     },
     {
      "img": "mv_perereca",
      "nome": "PERERECA",
      "grupo": "ANFÍBIO",
      "info": "Pele lisa e pula alto.",
-     "voz": "A perereca é um anfíbio. pele lisa e pula alto."
+     "voz": "A perereca é um anfíbio. Pele lisa e pula alto."
     },
     {
      "img": "mv_ra",
      "nome": "RÃ",
      "grupo": "ANFÍBIO",
      "info": "Pele úmida e nada bem.",
-     "voz": "A rã é um anfíbio. pele úmida e nada bem."
+     "voz": "A rã é um anfíbio. Pele úmida e nada bem."
     },
     {
      "img": "mv_salamandra",
      "nome": "SALAMANDRA",
      "grupo": "ANFÍBIO",
      "info": "Pele lisa e rabo comprido.",
-     "voz": "A salamandra é um anfíbio. pele lisa e rabo comprido."
+     "voz": "A salamandra é um anfíbio. Pele lisa e rabo comprido."
     },
     {
      "img": "mv_dourado",
      "nome": "DOURADO",
      "grupo": "PEIXE",
      "info": "Tem escamas e nadadeiras.",
-     "voz": "O dourado é uma peixe. tem escamas e nadadeiras."
+     "voz": "O dourado é uma peixe. Tem escamas e nadadeiras."
     },
     {
      "img": "mv_tubarao",
      "nome": "TUBARÃO",
      "grupo": "PEIXE",
      "info": "Peixe grande com nadadeiras.",
-     "voz": "O tubarão é uma peixe. peixe grande com nadadeiras."
+     "voz": "O tubarão é uma peixe. Peixe grande com nadadeiras."
     },
     {
      "img": "mv_cavalo_marinho",
      "nome": "CAVALO-MARINHO",
      "grupo": "PEIXE",
      "info": "Peixe pequeno que fica em pé.",
-     "voz": "O cavalo-marinho é uma peixe. peixe pequeno que fica em pé."
+     "voz": "O cavalo-marinho é uma peixe. Peixe pequeno que fica em pé."
     },
     {
      "img": "mv_peixe_palhaco",
      "nome": "PEIXE-PALHAÇO",
      "grupo": "PEIXE",
      "info": "Peixe laranja e branco.",
-     "voz": "O peixe-palhaço é uma peixe. peixe laranja e branco."
+     "voz": "O peixe-palhaço é uma peixe. Peixe laranja e branco."
     },
     {
      "img": "mv_arraia",
      "nome": "ARRAIA",
      "grupo": "PEIXE",
      "info": "Peixe chato e largo.",
-     "voz": "A arraia é uma peixe. peixe chato e largo."
+     "voz": "A arraia é uma peixe. Peixe chato e largo."
     },
     {
      "img": "mv_borboleta",
      "nome": "BORBOLETA",
      "grupo": "INVERTEBRADO",
      "info": "Asas coloridas, seis patas.",
-     "voz": "A borboleta é um invertebrado. asas coloridas, seis patas."
+     "voz": "A borboleta é um invertebrado. Asas coloridas, seis patas."
     },
     {
      "img": "mv_joaninha",
      "nome": "JOANINHA",
      "grupo": "INVERTEBRADO",
      "info": "Besouro vermelho com pintas.",
-     "voz": "A joaninha é um invertebrado. besouro vermelho com pintas."
+     "voz": "A joaninha é um invertebrado. Besouro vermelho com pintas."
     },
     {
      "img": "mv_abelha",
      "nome": "ABELHA",
      "grupo": "INVERTEBRADO",
      "info": "Faz mel, tem seis patas.",
-     "voz": "A abelha é um invertebrado. faz mel, tem seis patas."
+     "voz": "A abelha é um invertebrado. Faz mel, tem seis patas."
     },
     {
      "img": "mv_aranha",
      "nome": "ARANHA",
      "grupo": "INVERTEBRADO",
      "info": "Tece teia, oito patas.",
-     "voz": "A aranha é um invertebrado. tece teia, oito patas."
+     "voz": "A aranha é um invertebrado. Tece teia, oito patas."
     },
     {
      "img": "mv_caracol",
      "nome": "CARACOL",
      "grupo": "INVERTEBRADO",
      "info": "Corpo mole com concha.",
-     "voz": "O caracol é um invertebrado. corpo mole com concha."
+     "voz": "O caracol é um invertebrado. Corpo mole com concha."
     },
     {
      "img": "mv_minhoca",
      "nome": "MINHOCA",
      "grupo": "INVERTEBRADO",
      "info": "Corpo mole, vive na terra.",
-     "voz": "A minhoca é um invertebrado. corpo mole, vive na terra."
+     "voz": "A minhoca é um invertebrado. Corpo mole, vive na terra."
     },
     {
      "img": "mv_caranguejo",
      "nome": "CARANGUEJO",
      "grupo": "INVERTEBRADO",
      "info": "Tem casca dura e pinças.",
-     "voz": "O caranguejo é um invertebrado. tem casca dura e pinças."
+     "voz": "O caranguejo é um invertebrado. Tem casca dura e pinças."
     },
     {
      "img": "mv_polvo",
      "nome": "POLVO",
      "grupo": "INVERTEBRADO",
      "info": "Corpo mole com oito braços.",
-     "voz": "O polvo é um invertebrado. corpo mole com oito braços."
+     "voz": "O polvo é um invertebrado. Corpo mole com oito braços."
     }
    ]
   },
