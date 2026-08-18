@@ -2578,6 +2578,13 @@ function treinarFracos(){
 function pct(x){ return Math.round(x*100)+"%"; }
 function telaPainel(){
   try{ narr.pause(); }catch(e){}
+  /* ⚠️ LICAO PAGA (Museu, ago/2026): o painel do professor e um overlay opaco
+     de tela cheia (position:fixed;inset:0;z-index:40), mas era jogado por cima
+     do #app SEM limpar — os botoes da tela de baixo ficavam por baixo dele e o
+     portao de leiaute acusava "botao sobre botao" (o professor via um relatorio
+     limpo, mas geometricamente havia sobreposicao). limpa() o #app antes: o
+     relatorio passa a ser a UNICA coisa na tela, sem sobra por baixo. */
+  try{ limpa(); }catch(e){}
   var d=el("div","painel");
   var tot=MED.ev.length, acc=0,i;
   for(i=0;i<MED.ev.length;i++) acc+=MED.ev[i].ok;
