@@ -43,6 +43,7 @@ GNOME = {"mamiferos":"MAMÍFERO","aves":"AVE","repteis":"RÉPTIL","anfibios":"AN
          "peixes":"PEIXE","invertebrados":"INVERTEBRADO"}
 VERT = [a for g,(v,l) in G.items() if v for a in l]        # 26
 INV  = [a for a in G["invertebrados"][1]]                    # 8
+INV_IMGS = set(a[1] for a in INV)   # imgs dos invertebrados (casar por FIGURA)
 TODOS = [(g,)+a for g,(v,l) in G.items() for a in l]
 
 fases=[]
@@ -75,7 +76,12 @@ lote1=[("cachorro","mv_cachorro"),("borboleta","mv_borboleta"),("tucano","mv_tuc
 lote2=[("baleia","mv_baleia"),("abelha","mv_abelha"),("sapo","mv_sapo"),("polvo","mv_polvo"),("dourado","mv_dourado"),("minhoca","mv_minhoca")]
 lote3=[("gato","mv_gato"),("joaninha","mv_joaninha"),("coruja","mv_coruja"),("caranguejo","mv_caranguejo"),("lagarto","mv_lagarto"),("polvo","mv_polvo")]
 for i,lote in enumerate([lote1,lote2,lote3]):
-    fich=[{"img":im,"alvo":("inv" if (nm,im) in INV else "vert"),"t":nm.upper()} for nm,im in lote]
+    # ⚠️ LIÇÃO PAGA (o Marcos: "não deixa a abelha/minhoca ir na gaveta dos
+    #    invertebrados"). O destino era `("inv" if (nm,im) in INV ...)` — mas INV
+    #    guarda tuplas de 3 (nome,img,caract) e `(nm,im)` tem 2 -> NUNCA batia ->
+    #    TODO bicho virava "vert" e o invertebrado não entrava na gaveta certa.
+    #    Casa por FIGURA (INV_IMGS), que não depende do tamanho da tupla.
+    fich=[{"img":im,"alvo":("inv" if im in INV_IMGS else "vert"),"t":nm.upper()} for nm,im in lote]
     add(id="f%02d"%(len(fases)+1),mec="classificar",selo="SEPARE",
         enunciado="É <b>vertebrado</b> ou <b>invertebrado</b>? Guarde na gaveta.",
         dica="Vertebrado tem coluna (osso). Invertebrado não tem.",conceito="objetivo1",
@@ -243,9 +249,15 @@ for _g in _ordem:
     _vert,_lst=G[_g]
     for _nome,_img,_carac in _lst:
         _caracM=_carac[0].upper()+_carac[1:]        # 2a frase da voz começa com MAIÚSCULA
+        # ⚠️ LIÇÃO PAGA (o Marcos: "ele fala 'uma peixe'"). O artigo do GRUPO era
+        #    escolhido por ortografia — "termina em E -> uma" — que acerta AVE
+        #    (uma ave) mas ERRA PEIXE (masculino: um peixe). Gênero não se adivinha
+        #    pela letra final. Agora é EXPLÍCITO: só "ave" é feminino no museu.
+        _fem = {"AVE"}
+        _art = "uma" if GNOME[_g] in _fem else "um"
         VIT_PANELS.append({"img":_img,"nome":_nome.upper(),"grupo":GNOME[_g],
             "info":_caracM+".",
-            "voz":"%s %s é %s. %s."%(artigo_de(_nome), _nome, ("um invertebrado" if _g=="invertebrados" else "um "+GNOME[_g].lower() if GNOME[_g][-1]!="E" else "uma "+GNOME[_g].lower()), _caracM)})
+            "voz":"%s %s é %s %s. %s."%(artigo_de(_nome), _nome, _art, GNOME[_g].lower(), _caracM)})
 _VIT_ANTIGO=[
  {"img":"","nome":"OS ANIMAIS","grupo":"VERTEBRADOS e INVERTEBRADOS",
   "fatos":["Todo animal é de um tipo: VERTEBRADO tem osso por dentro (a coluna).",

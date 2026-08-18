@@ -230,35 +230,35 @@
      "nome": "DOURADO",
      "grupo": "PEIXE",
      "info": "Tem escamas e nadadeiras.",
-     "voz": "O dourado é uma peixe. Tem escamas e nadadeiras."
+     "voz": "O dourado é um peixe. Tem escamas e nadadeiras."
     },
     {
      "img": "mv_tubarao",
      "nome": "TUBARÃO",
      "grupo": "PEIXE",
      "info": "Peixe grande com nadadeiras.",
-     "voz": "O tubarão é uma peixe. Peixe grande com nadadeiras."
+     "voz": "O tubarão é um peixe. Peixe grande com nadadeiras."
     },
     {
      "img": "mv_cavalo_marinho",
      "nome": "CAVALO-MARINHO",
      "grupo": "PEIXE",
      "info": "Peixe pequeno que fica em pé.",
-     "voz": "O cavalo-marinho é uma peixe. Peixe pequeno que fica em pé."
+     "voz": "O cavalo-marinho é um peixe. Peixe pequeno que fica em pé."
     },
     {
      "img": "mv_peixe_palhaco",
      "nome": "PEIXE-PALHAÇO",
      "grupo": "PEIXE",
      "info": "Peixe laranja e branco.",
-     "voz": "O peixe-palhaço é uma peixe. Peixe laranja e branco."
+     "voz": "O peixe-palhaço é um peixe. Peixe laranja e branco."
     },
     {
      "img": "mv_arraia",
      "nome": "ARRAIA",
      "grupo": "PEIXE",
      "info": "Peixe chato e largo.",
-     "voz": "A arraia é uma peixe. Peixe chato e largo."
+     "voz": "A arraia é um peixe. Peixe chato e largo."
     },
     {
      "img": "mv_borboleta",
@@ -350,7 +350,7 @@
      },
      {
       "img": "mv_borboleta",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "BORBOLETA"
      },
      {
@@ -360,7 +360,7 @@
      },
      {
       "img": "mv_aranha",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "ARANHA"
      },
      {
@@ -370,7 +370,7 @@
      },
      {
       "img": "mv_caracol",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "CARACOL"
      }
     ],
@@ -438,7 +438,7 @@
      },
      {
       "img": "mv_abelha",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "ABELHA"
      },
      {
@@ -448,7 +448,7 @@
      },
      {
       "img": "mv_polvo",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "POLVO"
      },
      {
@@ -458,7 +458,7 @@
      },
      {
       "img": "mv_minhoca",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "MINHOCA"
      }
     ],
@@ -546,7 +546,7 @@
      },
      {
       "img": "mv_joaninha",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "JOANINHA"
      },
      {
@@ -556,7 +556,7 @@
      },
      {
       "img": "mv_caranguejo",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "CARANGUEJO"
      },
      {
@@ -566,7 +566,7 @@
      },
      {
       "img": "mv_polvo",
-      "alvo": "vert",
+      "alvo": "inv",
       "t": "POLVO"
      }
     ],
