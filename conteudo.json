@@ -743,7 +743,7 @@
     },
     {
      "k": "mv_borboleta",
-     "cima": "mv_borboleta",
+     "cima": "mv_borboleta_rx",
      "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>BORBOLETA</b> tem osso por dentro?",
@@ -992,7 +992,7 @@
     },
     {
      "k": "mv_caracol",
-     "cima": "mv_caracol",
+     "cima": "mv_caracol_rx",
      "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>CARACOL</b> tem osso por dentro?",
@@ -1323,7 +1323,7 @@
     },
     {
      "k": "mv_aranha",
-     "cima": "mv_aranha",
+     "cima": "mv_aranha_rx",
      "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>ARANHA</b> tem osso por dentro?",
@@ -1656,7 +1656,7 @@
     },
     {
      "k": "mv_polvo",
-     "cima": "mv_polvo",
+     "cima": "mv_polvo_rx",
      "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>POLVO</b> tem osso por dentro?",
