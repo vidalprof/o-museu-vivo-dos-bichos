@@ -728,8 +728,8 @@
     {
      "k": "mv_cachorro",
      "cima": "mv_cachorro",
-     "baixo": "mv_cachorro",
-     "borrado": true,
+     "baixo": "mv_cachorro_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>CACHORRO</b> tem osso por dentro?",
      "c": "TEM COLUNA (vertebrado)",
      "e": [
@@ -744,8 +744,8 @@
     {
      "k": "mv_borboleta",
      "cima": "mv_borboleta",
-     "baixo": "mv_borboleta",
-     "borrado": true,
+     "baixo": "mv_borboleta_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>BORBOLETA</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
      "e": [
@@ -977,8 +977,8 @@
     {
      "k": "mv_peixe_palhaco",
      "cima": "mv_peixe_palhaco",
-     "baixo": "mv_peixe_palhaco",
-     "borrado": true,
+     "baixo": "mv_peixe_palhaco_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>PEIXE-PALHAÇO</b> tem osso por dentro?",
      "c": "TEM COLUNA (vertebrado)",
      "e": [
@@ -993,8 +993,8 @@
     {
      "k": "mv_caracol",
      "cima": "mv_caracol",
-     "baixo": "mv_caracol",
-     "borrado": true,
+     "baixo": "mv_caracol_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>CARACOL</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
      "e": [
@@ -1308,8 +1308,8 @@
     {
      "k": "mv_tucano",
      "cima": "mv_tucano",
-     "baixo": "mv_tucano",
-     "borrado": true,
+     "baixo": "mv_tucano_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>TUCANO</b> tem osso por dentro?",
      "c": "TEM COLUNA (vertebrado)",
      "e": [
@@ -1324,8 +1324,8 @@
     {
      "k": "mv_aranha",
      "cima": "mv_aranha",
-     "baixo": "mv_aranha",
-     "borrado": true,
+     "baixo": "mv_aranha_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>ARANHA</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
      "e": [
@@ -1641,8 +1641,8 @@
     {
      "k": "mv_jacare",
      "cima": "mv_jacare",
-     "baixo": "mv_jacare",
-     "borrado": true,
+     "baixo": "mv_jacare_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>JACARÉ</b> tem osso por dentro?",
      "c": "TEM COLUNA (vertebrado)",
      "e": [
@@ -1657,8 +1657,8 @@
     {
      "k": "mv_polvo",
      "cima": "mv_polvo",
-     "baixo": "mv_polvo",
-     "borrado": true,
+     "baixo": "mv_polvo_xray",
+     "borrado": false,
      "p": "Passe o raio-X: <b>POLVO</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
      "e": [

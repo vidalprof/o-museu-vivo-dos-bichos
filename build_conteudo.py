@@ -57,7 +57,10 @@ rx_sets=[ [("cachorro","mv_cachorro",True),("borboleta","mv_borboleta",False)],
 for i,par in enumerate(rx_sets):
     itens=[]
     for nome,img,vert in par:
-        itens.append({"k":img,"cima":img,"baixo":img,"borrado":True,
+        # cima = o bicho normal; baixo = a CHAPA DE RAIO-X (mv_<bicho>_xray), que
+        # a janelinha revela. Vertebrado mostra esqueleto; invertebrado, corpo mole
+        # sem ossos — é o contraste que ensina. (Imagens de IA que o Marcos gerou.)
+        itens.append({"k":img,"cima":img,"baixo":img+"_xray","borrado":False,
             "p":"Passe o raio-X: <b>%s</b> tem osso por dentro?"%nome.upper(),
             "c":"TEM COLUNA (vertebrado)" if vert else "NÃO TEM OSSO (invertebrado)",
             "e":["NÃO TEM OSSO (invertebrado)"] if vert else ["TEM COLUNA (vertebrado)"],
