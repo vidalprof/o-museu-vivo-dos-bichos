@@ -743,8 +743,8 @@
     },
     {
      "k": "mv_borboleta",
-     "cima": "mv_borboleta_rx",
-     "baixo": "mv_borboleta_xray",
+     "cima": "mv_borboleta",
+     "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>BORBOLETA</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
@@ -753,7 +753,7 @@
      ],
      "d": [
       "Leve a janelinha bem devagar pelo meio do bicho.",
-      "Procure uma linha de ossos no meio das costas (a coluna).",
+      "Passe a janelinha pelo corpo todo: não aparece nenhum osso.",
       "Não tem osso por dentro: é INVERTEBRADO."
      ]
     }
@@ -992,8 +992,8 @@
     },
     {
      "k": "mv_caracol",
-     "cima": "mv_caracol_rx",
-     "baixo": "mv_caracol_xray",
+     "cima": "mv_caracol",
+     "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>CARACOL</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
@@ -1002,7 +1002,7 @@
      ],
      "d": [
       "Leve a janelinha bem devagar pelo meio do bicho.",
-      "Procure uma linha de ossos no meio das costas (a coluna).",
+      "Passe a janelinha pelo corpo todo: não aparece nenhum osso.",
       "Não tem osso por dentro: é INVERTEBRADO."
      ]
     }
@@ -1323,8 +1323,8 @@
     },
     {
      "k": "mv_aranha",
-     "cima": "mv_aranha_rx",
-     "baixo": "mv_aranha_xray",
+     "cima": "mv_aranha",
+     "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>ARANHA</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
@@ -1333,7 +1333,7 @@
      ],
      "d": [
       "Leve a janelinha bem devagar pelo meio do bicho.",
-      "Procure uma linha de ossos no meio das costas (a coluna).",
+      "Passe a janelinha pelo corpo todo: não aparece nenhum osso.",
       "Não tem osso por dentro: é INVERTEBRADO."
      ]
     }
@@ -1656,8 +1656,8 @@
     },
     {
      "k": "mv_polvo",
-     "cima": "mv_polvo_rx",
-     "baixo": "mv_polvo_xray",
+     "cima": "mv_polvo",
+     "baixo": "mv_vazio",
      "borrado": false,
      "p": "Passe o raio-X: <b>POLVO</b> tem osso por dentro?",
      "c": "NÃO TEM OSSO (invertebrado)",
@@ -1666,7 +1666,7 @@
      ],
      "d": [
       "Leve a janelinha bem devagar pelo meio do bicho.",
-      "Procure uma linha de ossos no meio das costas (a coluna).",
+      "Passe a janelinha pelo corpo todo: não aparece nenhum osso.",
       "Não tem osso por dentro: é INVERTEBRADO."
      ]
     }
